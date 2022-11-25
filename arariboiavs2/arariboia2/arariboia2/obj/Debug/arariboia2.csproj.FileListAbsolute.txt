@@ -1,0 +1,34 @@
+C:\Users\danib\Desktop\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\obj\Debug\arariboia2.csproj.AssemblyReference.cache
+C:\Users\danib\Desktop\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\obj\Debug\arariboia2.csproj.SuggestedBindingRedirects.cache
+C:\Users\danib\Desktop\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\obj\Debug\arariboia2.Properties.Resources.resources
+C:\Users\danib\Desktop\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\obj\Debug\arariboia2.csproj.GenerateResource.cache
+C:\Users\danib\Desktop\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\obj\Debug\arariboia2.csproj.CoreCompileInputs.cache
+C:\Users\danib\Desktop\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\bin\Debug\arariboia2.exe.config
+C:\Users\danib\Desktop\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\bin\Debug\arariboia2.exe
+C:\Users\danib\Desktop\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\bin\Debug\arariboia2.pdb
+C:\Users\danib\Desktop\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\bin\Debug\MetroFramework.dll
+C:\Users\danib\Desktop\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\danib\Desktop\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\obj\Debug\arariboia2.csproj.CopyComplete
+C:\Users\danib\Desktop\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\obj\Debug\arariboia2.exe
+C:\Users\danib\Desktop\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\obj\Debug\arariboia2.pdb
+C:\Users\danib\Desktop\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\obj\Debug\arariboia2.arduinoArariboia.resources
+C:\Users\danib\Desktop\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\bin\Debug\CircularProgressBar.dll
+C:\Users\danib\Desktop\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\bin\Debug\WinFormAnimation.dll
+C:\Users\danib\Desktop\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\bin\Debug\CircularProgressBar.xml
+C:\Users\danib\OneDrive\Área de Trabalho\ARARIBOIA\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\bin\Debug\arariboia2.exe.config
+C:\Users\danib\OneDrive\Área de Trabalho\ARARIBOIA\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\bin\Debug\arariboia2.exe
+C:\Users\danib\OneDrive\Área de Trabalho\ARARIBOIA\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\bin\Debug\arariboia2.pdb
+C:\Users\danib\OneDrive\Área de Trabalho\ARARIBOIA\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\bin\Debug\CircularProgressBar.dll
+C:\Users\danib\OneDrive\Área de Trabalho\ARARIBOIA\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\bin\Debug\MetroFramework.dll
+C:\Users\danib\OneDrive\Área de Trabalho\ARARIBOIA\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\danib\OneDrive\Área de Trabalho\ARARIBOIA\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\bin\Debug\WinFormAnimation.dll
+C:\Users\danib\OneDrive\Área de Trabalho\ARARIBOIA\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\bin\Debug\CircularProgressBar.xml
+C:\Users\danib\OneDrive\Área de Trabalho\ARARIBOIA\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\obj\Debug\arariboia2.csproj.AssemblyReference.cache
+C:\Users\danib\OneDrive\Área de Trabalho\ARARIBOIA\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\obj\Debug\arariboia2.csproj.SuggestedBindingRedirects.cache
+C:\Users\danib\OneDrive\Área de Trabalho\ARARIBOIA\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\obj\Debug\arariboia2.arduinoArariboia.resources
+C:\Users\danib\OneDrive\Área de Trabalho\ARARIBOIA\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\obj\Debug\arariboia2.Properties.Resources.resources
+C:\Users\danib\OneDrive\Área de Trabalho\ARARIBOIA\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\obj\Debug\arariboia2.csproj.GenerateResource.cache
+C:\Users\danib\OneDrive\Área de Trabalho\ARARIBOIA\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\obj\Debug\arariboia2.csproj.CoreCompileInputs.cache
+C:\Users\danib\OneDrive\Área de Trabalho\ARARIBOIA\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\obj\Debug\arariboia2.csproj.CopyComplete
+C:\Users\danib\OneDrive\Área de Trabalho\ARARIBOIA\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\obj\Debug\arariboia2.exe
+C:\Users\danib\OneDrive\Área de Trabalho\ARARIBOIA\ArariboiaTelemetria\arariboiavs2\arariboia2\arariboia2\obj\Debug\arariboia2.pdb
